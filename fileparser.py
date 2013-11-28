@@ -1,5 +1,4 @@
-#Started 6/4/2013 - Finished 6/17/13
-#File Parsing program for cleaning a folder or set of folders
+
 
 #Importing os for file parsing and deletion.
 import os
