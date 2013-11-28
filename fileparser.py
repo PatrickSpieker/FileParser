@@ -1,5 +1,3 @@
-
-
 #Importing os for file parsing and deletion.
 import os
 
